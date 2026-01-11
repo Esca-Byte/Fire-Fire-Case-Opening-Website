@@ -116,6 +116,6 @@ dist
 .pnp.*
 
 # Assets (User requested exclusion)
-assets/
-public/assets/
-src/assets/
+# assets/
+# public/assets/
+# src/assets/
